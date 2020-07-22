@@ -17,7 +17,9 @@ The exercise for this week is to implement a Dolly Zoom Effect used by filmmaker
 
 	
 ## Week 3
-
+The exercise for this week is to use tracking and pose estimation to implement a simple augmented reality application. There will be two steps to this process. First,
+we will use a KLT tracker to get the position of corners across different frames. Then we will use homography estimation to compute the 3D pose of a set of 4 points in the
+world. A 3D cube will be projected onto the image space using projective transformations.
 
 ## Week 4
 
